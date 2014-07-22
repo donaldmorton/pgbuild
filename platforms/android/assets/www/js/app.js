@@ -77,8 +77,26 @@ angular.module('starter', ['ionic', 'starter.controllers', 'starter.services'])
       }
     })
 
+    .state('tab.exp', {
+      url: '/exp',
+      views: {
+        'tab-exp': {
+          templateUrl: 'templates/tab-exp.html',
+          controller: 'expCtrl'
+        }
+      }
+    })
+
+
+    .state('home', {
+      url: '/home',
+         templateUrl: 'templates/tab-home.html',
+         controller: 'homeCtrl'
+    })
+
+
   // if none of the above states are matched, use this as the fallback
-  $urlRouterProvider.otherwise('/tab/dash');
+  $urlRouterProvider.otherwise('/home');
 
 });
 

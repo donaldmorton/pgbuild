@@ -7,4 +7,5 @@ C:\P001\ionict2\platforms\android\ant-build\classes\com\ionicframework\starter\R
 C:\P001\ionict2\platforms\android\ant-build\classes\com\ionicframework\starter\R$xml.class \
 C:\P001\ionict2\platforms\android\ant-build\classes\com\ionicframework\starter\R.class \
 C:\P001\ionict2\platforms\android\ant-build\classes\org\apache\cordova\device\Device.class \
+C:\P001\ionict2\platforms\android\ant-build\classes\org\apache\cordova\splashscreen\SplashScreen.class \
 C:\P001\ionict2\platforms\android\ant-build\dexedLibs\classes-828357085a4cd3b241944feb4d24119e.jar \
